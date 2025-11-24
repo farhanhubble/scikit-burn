@@ -9,7 +9,9 @@ Inspired by: https://nutrient-matters.com/recipe/pesto-chicken-cutlet-sandwich/
 **Chicken cutlets**
 
 * Thin chicken breast cutlets – 2 pieces (about 350–400 g total)
-* Salt & black pepper – to taste
+* Salt – about ½ tsp to season the flour dredge (adjust until the flour tastes lightly salty)
+* Black pepper – ½ tsp (for the flour dredge)
+* Dried parsley – 1 tsp (for the flour dredge)
 * All-purpose flour – ¼ cup
 * Egg – 1 large (beat with 1 tbsp water)
 * Panko breadcrumbs – ½ cup
@@ -34,9 +36,9 @@ Inspired by: https://nutrient-matters.com/recipe/pesto-chicken-cutlet-sandwich/
 ## 🔪 Prep
 
 1) **Season & bread**  
-   Pat the cutlets dry. Season both sides with salt and pepper.  
-   Set up 3 shallow bowls: (1) flour, (2) beaten egg, (3) panko.  
-   Dredge each cutlet in flour → egg → panko. Press crumbs on firmly; rest on a rack 5–10 min so the coating sets.
+   Pat the cutlets dry.  
+   Set up 3 shallow bowls: (1) flour mixed with the salt, black pepper, and dried parsley, (2) beaten egg, (3) panko.  
+   Dredge each cutlet in seasoned flour → egg → panko. Press crumbs on firmly; rest on a rack 5–10 min so the coating sets.
 
 2) **Pesto mayo**  
    Stir pesto, mayo, and lemon juice together. Adjust salt/pepper to taste.
